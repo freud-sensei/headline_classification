@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "klue/bert-base",
+  "_name_or_path": "freudsensei/dummy-kosts",
   "architectures": [
     "BertForSequenceClassification"
   ],
