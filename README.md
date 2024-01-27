@@ -15,22 +15,10 @@ should probably proofread and complete it, then remove this comment. -->
 
 # dummy-kosts
 
-This model is a fine-tuned version of [klue/bert-base](https://huggingface.co/klue/bert-base) on an unknown dataset.
+This model is a fine-tuned version of [klue/bert-base](https://huggingface.co/klue/bert-base) on [klue/ynat](https://huggingface.co/datasets/klue/viewer/ynat).
 It achieves the following results on the evaluation set:
 - Loss: 0.6433
 - Accuracy: 0.8642
-
-## Model description
-
-More information needed
-
-## Intended uses & limitations
-
-More information needed
-
-## Training and evaluation data
-
-More information needed
 
 ## Training procedure
 
