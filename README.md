@@ -8,6 +8,8 @@ metrics:
 model-index:
 - name: dummy-kosts
   results: []
+widget:
+- text: "충격! 유명 프로야구 선수 음주운전 적발"
 ---
 
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
