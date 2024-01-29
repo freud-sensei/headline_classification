@@ -17,6 +17,10 @@ should probably proofread and complete it, then remove this comment. -->
 
 # dummy-kosts
 
+한국어 기사 헤드라인을 입력하면 7가지 주제 중 하나로 분류해 주는 모형입니다.
+
+This model takes Korean article headlines as input and classifies them into one of seven topics.
+
 This model is a fine-tuned version of [klue/bert-base](https://huggingface.co/klue/bert-base) on [klue/ynat](https://huggingface.co/datasets/klue/viewer/ynat).
 It achieves the following results on the evaluation set:
 - Loss: 0.6433
